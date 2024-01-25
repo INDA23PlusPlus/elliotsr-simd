@@ -24,4 +24,4 @@ Summation of two 32-bit float arrays. 800,000 elements. 8,000 iterations. Compar
 -   Average: 0.001244 ms
 -   Best: 0.000000 ms
 -   Worst: 0.019000 ms
--   Total 9.951000 ms
+-   Total: 9.951000 ms
